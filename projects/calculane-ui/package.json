@@ -1,0 +1,26 @@
+{
+  "name": "calculane-ui",
+  "version": "1.0.0",
+  "peerDependencies": {
+    "@angular/common": "^12.2.0",
+    "@angular/core": "^12.2.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "description": "Calculane Component Library",
+  "author": {
+    "name": "Albert Kombol",
+    "email": "kombolalbert@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/calculane/calculane-ui.git"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/calculane/calculane-ui/issues"
+  },
+  "homepage": "https://github.com/calculane/calculane-ui"
+}
